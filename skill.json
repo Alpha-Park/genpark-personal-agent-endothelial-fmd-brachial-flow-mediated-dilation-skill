@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-endothelial-fmd-brachial-flow-mediated-dilation-skill",
+  "version": "1.0.0",
+  "title": "Brachial Flow-Mediated Dilation (FMD) Endothelial Function Skill",
+  "category": "Personal Agent (Bio / Vascular Endothelial Longevity)",
+  "description": "Calculates ultrasound reactive hyperemia brachial artery diameter expansion percentage (%FMD), shear rate stimulus-response coupling, and pre-clinical endothelial nitric oxide dysfunction.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "assess_flow_mediated_dilation_fmd"
+  ],
+  "dependencies": []
+}
